@@ -30,3 +30,14 @@
   - [3.8 Overloading Constructors](#)
   - [3.9 Packages](#)
   - [3.10 Documentation comment](#)
+
+- [4 - Inheritance](#)
+  - [4.1 Classes, Super classes and subclasses](#)
+  - [4.2 The class Object](#)
+  - [4.3 Overriding Methods](#)
+  - [4.4 Generic ArrayList](#)
+  - [4.5 Object Wrappers and Autoboxing](#)
+  - [4.6 Methods with variable number of arguments](#)
+  - [4.7 Enumerations](#)
+  - [4.8 Reflection](#)
+  
