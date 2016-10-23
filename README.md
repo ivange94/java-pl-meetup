@@ -5,6 +5,10 @@
 
 ------
 
+This repo will hold all my lessons, exercises, assignements and solutions for the 2016 java pl meetup. The repo does not give a
+complete description of the java programming language as most of that will be done in class. But you can also use it as
+self paced java tutorial. Recommended text book for this course, is Java How to Program 10th edition
+
 ## Part 1 (Java Fundamentals)
 
 - [1 - Intro to Java and Java Development Environment](#)
