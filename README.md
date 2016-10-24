@@ -26,6 +26,8 @@ self paced java tutorial. Recommended text book for this course, is Java How to 
   - [3.1 Introduction to Object Oriented Programming]()
   - [3.2 Using Predefined Classes](#)
     - [3.2.1 The String class](#)
+    - [3.2.1 The Date class](#)
+    - [3.2.1 The Math class](#)
   - [3.3 Defining your own classes](#)
   - [3.4 Fields and Methods](#)
   - [3.5 Method Parameters](#)
