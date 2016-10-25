@@ -11,9 +11,9 @@ self paced java tutorial. Recommended text book for this course, is Java How to 
 
 ## Part 1 (Java Fundamentals)
 
-- [1 - Intro to Java and Java Development Environment](#)
+- [1 - Intro to Java and Java Development Environment](part-1, 1 - Intro to Java and Java Development Environment.md)
 
-- [2 - Fundamental Programming Concepts in Java](#)
+- [2 - Fundamental Programming Concepts in Java](part-1, 2 - Fundamental Programming Concepts in Java.md)
   - [2.1 Hello World in Java](#)
   - [2.2 Comments](#)
   - [2.3 Datatypes and Variables](#)
@@ -22,7 +22,7 @@ self paced java tutorial. Recommended text book for this course, is Java How to 
   - [2.6 Conditional and Looping constructs](#)
   - [2.7 Arrays](#)
 
-- [3 - Objects and Classes](#)
+- [3 - Objects and Classes](part-1, 3 - Objects and Classes.md)
   - [3.1 Introduction to Object Oriented Programming]()
   - [3.2 Using Predefined Classes](#)
     - [3.2.1 The String class](#)
