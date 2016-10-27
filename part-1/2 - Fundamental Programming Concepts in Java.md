@@ -122,3 +122,37 @@ public class MultipleSelections {
 **Output**
 
 `a is less than b`
+
+### 2.6.4 While statement
+
+The while statement is one of the 3 java looping statements which include, **while**, **do while** and **for**. In this section will look at only the while statement. The java while statement is used to repeat execution of some block of code multiple times if a particular condition is true.
+
+The example below prints integers from 1-10 and their squares.
+
+```java
+public class WhileLoop {
+
+    public static void main(String[] args) {
+    
+       int n = 10;
+       while (n > 10) {
+           System.out.println(n);
+           n--;
+       }
+    }
+}
+```
+
+**Output**
+```
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+```
