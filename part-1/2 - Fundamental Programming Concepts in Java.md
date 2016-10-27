@@ -134,10 +134,10 @@ public class WhileLoop {
 
     public static void main(String[] args) {
     
-       int n = 10;
-       while (n > 10) {
+       int n = 0;
+       while (n < 10) {
            System.out.println(n);
-           n--;
+           n++;
        }
     }
 }
@@ -155,4 +155,34 @@ public class WhileLoop {
 3
 2
 1
+```
+
+### 2.6.5 For loops
+The next looping construct we'll see is the for loop. The for loop is similar to the while loop except that, the counter initialization, condition and increment are done on one line. The example below does the same thing that was done by the while loop.
+
+```java
+public class ForLoop {
+    public static void main(String[] args) {
+    
+        for (int i = 0;i < 10;i++) {
+            System.out.println(n);
+        }
+    }
+}
+```
+
+## 2.7 Arrays
+Arrays holds group of elements of the same type. It is the most basic data structure in java. The example below creates an array to hold 10 integers, initialize the values from 0-9 and display the values the array.
+
+```java
+public class WorkingArrays {
+    public static void main(String[] args) {
+    
+        int[] numbers = new int[10];
+        for (int i = 0;i < numbers.length;i++) {
+            numbers[i] = i;
+            System.out.println(numbers[i]);
+        }
+    }
+}
 ```
