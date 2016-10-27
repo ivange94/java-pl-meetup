@@ -29,6 +29,7 @@ called sequential execution. There may be a situation when you need to execute a
  ```
  
  **Output**
+ 
  ```
  true
  false
@@ -37,6 +38,7 @@ called sequential execution. There may be a situation when you need to execute a
  The `if` statement executes some code when a condition is true and skips that line of code if the condition is false.
  
  **Examples**
+ 
  We'll calculate the largest of two numbers
  
  ```java
